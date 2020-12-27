@@ -3,6 +3,16 @@
 
 > Open this page at [https://sellorm.github.io/gt84/](https://sellorm.github.io/gt84/)
 
+## Gameplay and controls
+
+GT '84 is how Gran Tourismo might have looked if it had been made in 1984.
+
+Use left/right to dodge the obstacles.
+
+Pizza is an extra life and cherries are bonus points.
+
+Survive as long as you can!!!
+
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
